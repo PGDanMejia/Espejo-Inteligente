@@ -1,5 +1,4 @@
 # Smart-Mirror
-Raspberry powered mirror which can display the news, weather, and time.
 Un espejo que trabaja con un Raspberry el cual puede mostrar noticias(Las que decidas), clima y fecha y hora
 
 ## Instalacion y Actualización
